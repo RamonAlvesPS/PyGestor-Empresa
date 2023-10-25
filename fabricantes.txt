@@ -1,0 +1,18 @@
+75.894.213/0001-92, Sabor Isis, Rua Manoel Celestino de Paula, Sousa, PB, 8335222222, Sr. Isis, 18/10/2023, Alimentos, saborisis@gmail.com
+31.726.984/0001-70, Lacticínios Dois Irmões, Chabocão, São Francisco, PB, 83812345978, Dois Irmões, 10/10/2022, Alimentos, lacticinios@gmail.com
+69.483.217/0001-62, Ambev, Gastão Medeiros Forte, Sousa, PB, 8335224090, Sr. Ambev, 10/09/2023, Alimentos, ambev@gmail.com
+77.997.236/0001-79, TechSolutions Ltda., Rua da Paz, Rio Branco, AC, 1234567890, João Silva, 15/03/20, Alimentos, joao.silva@email.com
+35.216.617/0001-23, GreenPower Inc., Rua dos Girassóis, Maceió, AL, 5551234567, Maria Santos, 22/05/20, Eletrônicos, maria.santos@email.com
+35.285.176/0001-11, Apex Innovations, Rua das Flores, Santana, AP, 9876543210, Pedro Oliveira, 10/09/20, Alimentos, pedro.oliveira@email.com
+95.372.488/0001-94, SecureNet Systems, Rua dos Pinheiros, Parintins, AM, 1112223333, Ana Pereira, 04/12/20, Automóveis, ana.pereira@email.com
+45.962.342/0001-20, Infinity Industries, Rua do Sol, Feira de Santana, BA, 4445556666, Carlos Costa, 28/02/21, Eletrônicos, carlos.costa@email.com
+04.783.324/0001-09, Quantum Ventures, Rua das Acácias, Sobral, CE, 7778889999, Luana Mendes, 17/04/21, Alimentos, luana.mendes@email.com
+51.927.698/0001-82, AeroTech Innovations, Rua das Palmeiras, Brasília, DF, 9998887777, André Ferreira, 08/07/21, Eletrônicos, andre.ferreira@email.com
+37.618.203/0001-27, DataMatrix Group, Rua da Liberdade, Vitória, ES, 3332221111, Raquel Almeida, 30/09/21, Automóveis, raquel.almeida@email.com
+98.047.512/0001-75, GlobalTrade Corp., Rua do Bosque, Goiânia, GO, 6665554444, Daniel Rodrigues, 25/12/21, Alimentos, daniel.rodrigues@email.com
+63.895.461/0001-96, PrimeLink Solutions, Rua das Hortênsias, São Luís, MA, 8907654321, Sofia Carvalho, 14/03/22, Automóveis, sofia.carvalho@email.com
+80.512.379/0001-21, SwiftWave Technologies, Rua das Rosas, Cuiabá, MT, 2345678901, Eduardo Gomes, 06/05/22, Eletrônicos, eduardo.gomes@email.com
+22.966.501/0001-38, EcoEnergy Inc., Rua das Margaridas, Campo Grande, MS, 5432109876, Fernanda Azevedo, 29/07/22, Automóveis, fernanda.azevedo@email.com
+55.710.284/0001-09, Insight Dynamics, Rua do Lago, Belo Horizonte, MG, 9871234567, Tiago Correia, 21/09/22, Alimentos, tiago.correia@email.com
+49.273.810/0001-13, SkyQuest Enterprises, Rua dos Ipês, Belém, PA, 1119998888, Paula Sousa, 24/11/22, Eletrônicos, paula.sousa@email.com
+68.319.506/0001-66, PowerPulse Systems, Rua dos Ciprestes, Cajazeiras, PB, 5554443333, Rui Gonçalves, 17/01/23, Alimentos, rui.goncalves@email.com
