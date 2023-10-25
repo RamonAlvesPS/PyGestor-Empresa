@@ -1,6 +1,6 @@
-<a id="hashzap">
+<a id="PyGestor-Empresa">
   <p align="center">
-    <img width='38%' src="./assets/imgs/Logo HashZap.png"/>
+    <img width='65%' src="./img/PyGestor.png"/>
   </p>
 </a>
 
@@ -8,18 +8,19 @@
   <img src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" alt="Version 1.0.0"/>
 </p>
 
-  Este é um projeto simples chamado "HashZap". Foi desenvolvido como parte dos estudos durante a "Jornada Python" da [4ª aula](https://youtu.be/0bTo_ouNbmQ) (Python Dev) realizada pela [HashTag Treinamento](https://lp.hashtagtreinamentos.com/). O projeto tem como objetivo criar um chat interativo usando a biblioteca flet no Python.
+  > Este é um projeto simples desenvolvido com o objetivo de simular um software de controle de produtos e fabricantes/fornecedores. Ele foi criado para fins de demonstração e prática em um mini curso de Introdução ao PyAutoGUI.
 
- **Data de criação:** 30/09/2023
+  > Este projeto foi inspirado em um tutorial em vídeo do YouTube ministrado por [João Futi Muanda](https://www.youtube.com/@usandopython). No [tutorial original](<https://www.youtube.com/playlist?list=PLGFzROSPU9oWCqBBd2mO60rBACSLhk1T7>), o objetivo era criar um sistema para controle de alunos, turmas e cursos.
+
+ > **Data de criação:** 19/10/2023
 
 ---
 <a id="Sumario"></a>
 # 📌 Sumário
 
-- [HashZap](#hashzap)
 - [📌 Sumário](#-sumário)
   - [👷‍♂️ Como usar?](#️-como-usar)
-  - [📃 Resumo](#-resumo)
+  - [📃 Funcionalidades](#-funcionalidades)
   - [📸 Resultado](#-resultado)
   - [🔱 Skills](#-skills)
   - [🔧 Problemas](#-problemas)
@@ -32,12 +33,12 @@
 
   Certifique-se de ter o Python instalado em seu sistema.
 
-``` sh
+``` bash
   # Abra o terminal ou prompt de comando e Clone este repositório
-  $ git clone https://github.com/RamonAlvesPS/HashZap.git
+  $ git clone https://github.com/RamonAlvesPS/PyGestor-Empresa.git
 
   # Navegue até o diretório onde o programa está localizado
-  $ cd HashZap
+  $ cd PyGestor-Empresa
 
   # Instale as dependências
   $ pip install -r requirements.txt
@@ -47,10 +48,12 @@
 ```
 ---
 
-<a id="Resumo"></a>
+<a id="Funcionalidades"></a>
 
-## 📃 Resumo
-  O "HashZap" é um chat em que os usuários podem inserir seus nomes e enviar mensagens para uma sala de chat virtual. O chat é interativo e exibe as mensagens em tempo real à medida que são enviadas pelos usuários. O projeto demonstra o uso da biblioteca flet para criar interfaces gráficas em Python.
+## 📃 Funcionalidades
+  **Cadastro de Produtos:** Registre informações detalhadas sobre produtos, como nome, preço, quantidade em estoque e descrição.
+
+  **Gerenciamento de Fabricantes/Fornecedores:** Mantenha um registro completo de fabricantes ou fornecedores associados aos produtos.
 
 ---
 <a id="Resultado"></a>
@@ -59,7 +62,7 @@
 
 <div align='center'>
   <a href='https://github.com/RamonAlvesPS'>
-    <img width='98%' src='./assets/imgs/Teste.gif'>
+    <img width='98%' src='./img/Teste.gif'>
   </a>
 </div>
 
@@ -67,9 +70,8 @@
 <a id="Skills"></a>
 
 ## 🔱 Skills
-* Uso da biblioteca flet para criar interfaces gráficas.
-* Criação de um chat interativo.
-* Manipulação de eventos e mensagens em tempo real.
+* Uso da biblioteca PyAutoGUI para controlar o mouse, teclado e tela do computador.
+* Manipulação de eventos usando Python.
 
 ---
 
@@ -77,22 +79,27 @@
 
 ## 🔧 Problemas
 
-Sinta-se a vontade para **registar uma nova edição** com o respectivo titulo e descrição no repositório [HashZap](https://github.com/RamonAlvesPS/HashZap/issues). Se você já encontrou uma solução para o seu problema, **adoraria analisar sua solicitação de recebimento**!
+Sinta-se a vontade para **registar uma nova edição** com o respectivo titulo e descrição no repositório [PyGestor-Empresa](https://github.com/RamonAlvesPS/PyGestor-Empresa/issues). Se você já encontrou uma solução para o seu problema, **adoraria analisar sua solicitação de recebimento**!
 
 ---
 
 <a id="Licença"></a>
 
 ## 📕 Licença
-
-<div align="center">
   
-  Este projeto está sob a [MIT license]([https://github.com/RamonAlvesPS/HashZap/blob/main/LICENSE).
-  
-</div>
+  Este projeto está sob a [MIT license]([https://github.com/RamonAlvesPS/PyGestor-Empresa/blob/main/LICENSE).
 
-<div align=''>
+---
+
+<div align='center'>
   
 🚀 Feito com <strong style="color:purple">❤</strong>  por [Ramon Alves](https://github.com/RamonAlvesPS).
 
+</div>
+
+---
+<div align='center'>
+  <h2> Agradecimentos </h2>
+
+  Agradecemos a [João Futi Muanda](https://www.youtube.com/@usandopython) pela inspiração e pelo excelente tutorial em vídeo que serviu como base para este projeto.
 </div>
